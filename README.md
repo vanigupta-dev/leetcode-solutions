@@ -1,10 +1,7 @@
 # DSA Practice
 
 DSA solutions and notes documenting consistent, technique-focused practice.
-
-![Problems Solved](https://leetcode.com/progress/)
-![Days Active](https://leetcode.com/u/vanigupta-dev/)
-
+![LeetCode Streak](https://leetcode-stats-card.vercel.app/api?username=vanigupta-dev)
 
 ---
 
