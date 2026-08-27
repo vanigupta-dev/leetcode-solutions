@@ -1,7 +1,8 @@
 # DSA Practice
 
 DSA solutions and notes documenting consistent, technique-focused practice.
-![LeetCode Streak](https://leetcode-stats-card.vercel.app/api?username=vanigupta-dev)
+
+🔗 [View my LeetCode Profile](https://leetcode.com/u/vanigupta-dev/)
 
 ---
 
