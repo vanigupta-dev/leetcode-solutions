@@ -2,9 +2,7 @@
 
 DSA solutions and notes documenting consistent, technique-focused practice.
 
-![Problems Solved](https://leetcode.com/progress/)
-![Days Active](https://leetcode.com/u/vanigupta-dev/)
-
+🔗 [View my LeetCode Profile](https://leetcode.com/u/vanigupta-dev/)
 
 ---
 
